@@ -44,7 +44,7 @@ https://www.hindawi.com/journals/bmri/2014/781670/tab1/
 
 [4-readmited_Models_balanced.ipynb](https://github.com/Niteshkumar85/Readmission-ML-Project-master/blob/master/notebooks/4-readmited_Models_balanced.ipynb) - Modeling  using smote for balanced the dataset
 
-5-readmited_Models_imbalance_NoMeds.ipynb - Modeling with imbalanced dataset and no Medication features
+[5-readmited_Models_imbalance_NoMeds.ipynb](https://github.com/Niteshkumar85/Readmission-ML-Project-master/blob/master/notebooks/5-readmited_Models_imbalance_NoMeds.ipynb) - Modeling with imbalanced dataset and no Medication features
 
 # Selected Measure
 
