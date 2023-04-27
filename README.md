@@ -34,15 +34,15 @@ https://www.hindawi.com/journals/bmri/2014/781670/tab1/
 # Notebooks
 **note:** I use plotly for make and interactive plots, but can be seen if you open the notebooks on github.
 
-[1-readmited_preprocess.ipynb](https://github.com/JoseRZapata/Readmission-ML-Project/blob/master/notebooks/1-readmited_preprocess.ipynb) - Data loading and cleaning
+[1-readmited_preprocess.ipynb](https://github.com/Niteshkumar85/Readmission-ML-Project-master/blob/master/notebooks/1-readmited_preprocess.ipynb) - Data loading and cleaning
 
-[2-readmited_data_explore.ipynb](https://github.com/JoseRZapata/Readmission-ML-Project/blob/master/notebooks/2-readmited_data_explore.ipynb) - Data explore and analysis
+[2-readmited_data_explore.ipynb](https://github.com/Niteshkumar85/Readmission-ML-Project-master/blob/master/notebooks/2-readmited_data_explore.ipynb) - Data explore and analysis
 
-[3-readmited_Models_imbalance.ipynb](https://github.com/JoseRZapata/Readmission-ML-Project/blob/master/notebooks/3-readmited_Models_imbalance.ipynb) (**Selected Model**) - Modeling with a imbalanced dataset.
+[3-readmited_Models_imbalance.ipynb](https://github.com/Niteshkumar85/Readmission-ML-Project-master/blob/master/notebooks/3-readmited_Models_imbalance.ipynb) (**Selected Model**) - Modeling with a imbalanced dataset.
 
 **Modeling conclusions**
 
-[4-readmited_Models_balanced.ipynb](https://github.com/JoseRZapata/Readmission-ML-Project/blob/master/notebooks/4-readmited_Models_balanced.ipynb) - Modeling  using smote for balanced the dataset
+[4-readmited_Models_balanced.ipynb](https://github.com/Niteshkumar85/Readmission-ML-Project-master/blob/master/notebooks/4-readmited_Models_balanced.ipynb) - Modeling  using smote for balanced the dataset
 
 5-readmited_Models_imbalance_NoMeds.ipynb - Modeling with imbalanced dataset and no Medication features
 
